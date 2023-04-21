@@ -1,0 +1,2 @@
+Today\tis Tuesday.\n
+

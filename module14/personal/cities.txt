@@ -1,0 +1,40 @@
+New York        $800            
+Bufallo         $190            
+Omaha           $260            
+Denver          $800            
+Cincinnati      $190            
+Cleveland       $260
+
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
+Miami           $800            
+Orlando         $190            
+Fort Lauderdale $260            
